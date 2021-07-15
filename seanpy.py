@@ -1,4 +1,2 @@
-print('here')
-
-Class sean():
-hui first
+sean first
+sean second

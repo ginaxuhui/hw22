@@ -17,6 +17,7 @@ void sshow(const int & v, int cols);
 
 int main()
 {
+  // eat my poop
     using std::slice;
     using std::cout;
     vint valint(SIZE);
@@ -24,5 +25,3 @@ int main()
     for(i=0;i<SIZE;++i)
         valint[i]=std::rand()%10;
     how(valint,3);
-    
-    
